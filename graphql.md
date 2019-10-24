@@ -1,0 +1,6 @@
+[specification](https://graphql.github.io/graphql-spec/)  
+[start point](https://graphql.org/)   
+[landscape](https://landscape.graphql.org/)   
+[graphiql example app](https://github.com/graphql/graphiql/tree/master/packages/examples/graphiql-cdn)  
+[fullstack tutorial](https://www.howtographql.com/)  
+[guides](https://www.graphql.com/guides/)  
