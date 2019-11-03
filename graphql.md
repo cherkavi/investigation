@@ -7,15 +7,15 @@
 
 # GraphQL vs REST
 ## http request
-[GraphQL vs REST](https://i.postimg.cc/rw5CZRBC/graph-QL-vs-REST.png)
+![GraphQL vs REST](https://i.postimg.cc/rw5CZRBC/graph-QL-vs-REST.png)
 ## how it is works
-[](https://i.postimg.cc/N0gTNJ7B/graph-QL-HIW.png)
+![working process](https://i.postimg.cc/N0gTNJ7B/graph-QL-HIW.png)
 ## URL Driven vs Query Language
-[Query language](https://i.postimg.cc/PqhbgrhG/graph-QL-QL.png)
+![Query language](https://i.postimg.cc/PqhbgrhG/graph-QL-QL.png)
 ## Query
 ### [Online example](https://anilist.co/graphiql)
 #### request
-```json
+```
 {
     "query"{
         Page{
