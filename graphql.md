@@ -8,6 +8,8 @@
 # GraphQL vs REST
 ## http request
 ![GraphQL vs REST](https://i.postimg.cc/rw5CZRBC/graph-QL-vs-REST.png)
+## return data explanation
+![data layer](https://i.postimg.cc/PxHxHbJz/graph-QL-explanation.png)
 ## how it is works
 ![working process](https://i.postimg.cc/N0gTNJ7B/graph-QL-HIW.png)
 ## URL Driven vs Query Language
