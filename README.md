@@ -9,7 +9,8 @@ How to learn new tech fastly:
 * Играйте вдолгую и помните о спаде.  
 ![how to learn](https://i.postimg.cc/CxF9KrDd/how-to-learn.png)
 
-
-![negotiations](https://i.postimg.cc/nz24YRNM/image.jpg)
-![manager types](https://i.postimg.cc/0QjQFVbz/manager-types.jpg)
-![hiring](https://i.postimg.cc/3JG2RGwM/hiring.png)
+[Value Proposition canvas](https://assets.strategyzer.com/assets/resources/the-value-proposition-canvas.pdf)  
+[Value Proposition manual](https://assets.strategyzer.com/assets/resources/the-value-proposition-canvas-instruction-manual.pdf)  
+![negotiations](https://i.postimg.cc/nz24YRNM/image.jpg)  
+![manager types](https://i.postimg.cc/0QjQFVbz/manager-types.jpg)  
+![hiring](https://i.postimg.cc/3JG2RGwM/hiring.png)  
