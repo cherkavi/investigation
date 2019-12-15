@@ -1,6 +1,7 @@
 # investigation
 different type of investigation that I've done before starting any type (S-M-L-XL) of startup project
 
+![swot](https://drive.google.com/open?id=1TVxS6j7SGvvp8MLjS496usoceez1Rcqo)  
 How to learn new tech fastly:
 * Повторяйте за экспертами, не изобретайте велосипед
 * Выделяйте элементы навыка, которые приносят 80% успеха
