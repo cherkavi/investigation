@@ -1,4 +1,27 @@
 <html>
- 	<body bgcolor="#0000FF">
+	<!-- http://www.colour-affects.co.uk/psychological-properties-of-colours -->
+	<head>
+		<script>
+			colors={
+				0:{color:"#0000FF", title:"intellectual"}, 
+				1:{color:"#FF0000", title:"physical"}, 
+				2:{color:"#00FF00", title:"balance"},
+				3:{color:"#FFFF00", title:"emotional"}
+			};
+			current_color=-1;
+			function change_color(){
+				current_color++;
+				if (current_color>=4){
+					current_color=0;
+				}
+				document.body.style["background-color"]=colors[current_color]["color"];
+				document.body.title=colors[current_color]["title"];
+				document.title=document.body.title;
+			};
+		</script>
+	</head>
+	<body onload="change_color()">
+		<div onclick="change_color()" style="height: 100%;">
+		</div>	
 	</body>
 </html>
